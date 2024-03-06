@@ -1,6 +1,6 @@
 ### Olá mundo, me chamo Gustavo Müller! 👋
 
-[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/gustavo-müller-leonini-machado-aaa542264)
+[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-m%C3%BCller-leonini-machado-aaa542264/)
 [![Blog](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=CllgCJqWgvljsbVnTNMCPGhjgwwPVTjnxxSVbnMmlBZLPQGqJtNflkXhlCmQQVStxVmnDRzpwwL)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guumuller&layout=donut-vertical)](https://github.com/guumuller/github-readme-stats)
