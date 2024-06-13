@@ -1,7 +1,9 @@
-### Olá mundo, me chamo Gustavo Müller! 👋
+### Hello World, my name is Gustavo Müller! 👋
+
+<h4> 📩 Contact me: <a src="#">gustavomuller160305@gmail.com</a>.</h4>
 
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-m%C3%BCller-leonini-machado-aaa542264/)
-[![Blog](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=CllgCJqWgvljsbVnTNMCPGhjgwwPVTjnxxSVbnMmlBZLPQGqJtNflkXhlCmQQVStxVmnDRzpwwL)
+
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guumuller&layout=compact&langs_count=7&theme=dark"/>
 
