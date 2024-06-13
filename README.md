@@ -1,6 +1,12 @@
 ### Hello World, my name is Gustavo Müller! 👋
 
-<h4> 📩 Contact me: <a src="#">gustavomuller160305@gmail.com</a>.</h4>
+<h4> 📩 Contact me: <a src="#" id="email">gustavomuller160305@gmail.com</a>.</h4>
+
+<style>
+    #email{
+        color: #000FF;
+    }
+</style>
 
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-m%C3%BCller-leonini-machado-aaa542264/)
 
