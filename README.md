@@ -12,4 +12,4 @@
 <h3>Skills:</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=js,react,ts,php,mysql,py,java,tailwind,bootstrap,vite )](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=apple,androidstudio,firebase )](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=apple,androidstudio,firebase,vscode )](https://skillicons.dev)
