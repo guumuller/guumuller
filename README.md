@@ -9,7 +9,7 @@
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guumuller&layout=compact&langs_count=7&theme=dark"/>
 
-<h3>Skills:</h3>
+<h3 align="center">Skills:</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=js,react,ts,php,mysql,py,java,tailwind,bootstrap,vite )](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,firebase,vscode )](https://skillicons.dev)
