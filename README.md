@@ -1,3 +1,4 @@
+<section align="center">
 <h1>Hello World, my name is Gustavo Müller! 👋</h1>
 
 <h4> 📩 Contact me: gustavomullerleonini@gmail.com</h4>
@@ -12,3 +13,4 @@
 [![My Skills](https://skillicons.dev/icons?i=react,ts,py,java )](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=firebase )](https://skillicons.dev)
 
+</section>
