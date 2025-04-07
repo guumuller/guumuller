@@ -1,5 +1,5 @@
 <section align="center">
-<h1>Hello World, my name is Gustavo Müller! 👋</h1>
+<h1>Hi! My name is Gustavo Müller! 👋</h1>
 
 <h4> 📩 Contact me: gustavomullerleonini@gmail.com</h4>
 
