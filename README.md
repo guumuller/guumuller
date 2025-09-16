@@ -10,7 +10,7 @@
 
 <h3>Skills:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=react,ts,py,java )](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,express,postgres )](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=firebase )](https://skillicons.dev)
 
 </section>
