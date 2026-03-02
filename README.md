@@ -2,7 +2,7 @@
 <h1>Hi! My name is Gustavo Müller! 👋</h1>
 
 <h4>
-Currently studying systems analysis and development with 5 years of programming experience. Currently focused on mobile development using React Native. I also have experience with web, backend, and full-stack projects.</h4>
+Currently studying systems analysis and development with 5 years of programming experience. Currently focused on mobile development using React Native. I also have experience with web, backend and full-stack projects.</h4>
 
 <h4> 📩 Contact me: gustavomullerleonini@gmail.com</h4>
 
